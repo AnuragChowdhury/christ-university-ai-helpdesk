@@ -1,0 +1,37 @@
+[
+  {
+    "instruction": "What is the minimum attendance requirement for End Semester Examinations at Christ University?",
+    "input": "",
+    "output": "According to Section 9 of the Christ University Academic Regulations, students must secure a minimum aggregate attendance of 85% to be eligible for End Semester Examinations (ESE). Students having between 75% and 84% may apply for medical/institutional condonation."
+  },
+  {
+    "instruction": "What is the mandatory attendance requirement to be eligible for the Mid Semester Examination (MSE)?",
+    "input": "",
+    "output": "A minimum of 75% attendance in the respective course is strictly mandatory to appear for the Mid Semester Examination (MSE/CIA II)."
+  },
+  {
+    "instruction": "What are the timings for the Christ University Central Knowledge Centre (Library)?",
+    "input": "",
+    "output": "The Knowledge Centre (Central Library) is open Monday to Saturday from 8:00 AM to 9:00 PM, and on Sundays from 9:00 AM to 4:00 PM during examination periods. Remote digital library access is provided for IEEE, ScienceDirect, and Scopus."
+  },
+  {
+    "instruction": "Detail the male student dress code policy prescribed by Christ University.",
+    "input": "",
+    "output": "Male students must wear formal shirts tucked into formal trousers with formal leather/canvas shoes. Groomed hair and clean-shaven or neat beard is expected. Round-neck T-shirts and torn jeans are strictly forbidden."
+  },
+  {
+    "instruction": "What is the passing criteria for Postgraduate (PG) programs in CIA and ESE?",
+    "input": "",
+    "output": "For Postgraduate programs (such as MBA, MSc, MS AI & ML), students must score a minimum of 40% in CIA and 40% in ESE separately, with an overall combined passing aggregate of 50% (Grade C)."
+  },
+  {
+    "instruction": "Which faculties and schools operate out of the Christ University Kengeri Campus?",
+    "input": "",
+    "output": "The Kengeri Campus (Mysore Road, Kanmanike) houses the School of Engineering and Technology (CUFE) and the School of Architecture."
+  },
+  {
+    "instruction": "What is the anti-ragging policy at Christ University and what are the emergency contacts?",
+    "input": "",
+    "output": "Christ University enforces a strict zero-tolerance anti-ragging policy under UGC guidelines. Offenses lead to immediate expulsion and police FIR. National Anti-Ragging Helpline: 1800-180-5522; University Contact: antiragging@christuniversity.in."
+  }
+]

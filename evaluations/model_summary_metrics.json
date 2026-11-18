@@ -1,0 +1,26 @@
+[
+  {
+    "Model":"DistilBERT-Extractor",
+    "Latency (s)":0.0004,
+    "Groundedness":1.0,
+    "Relevance":0.81866,
+    "F1 Score":0.1924,
+    "Hallucination Risk":0.0
+  },
+  {
+    "Model":"Phi-3-Mini (3.8B)",
+    "Latency (s)":0.0,
+    "Groundedness":0.92154,
+    "Relevance":0.752,
+    "F1 Score":0.36166,
+    "Hallucination Risk":0.07846
+  },
+  {
+    "Model":"TinyLlama-1.1B",
+    "Latency (s)":0.0,
+    "Groundedness":1.0,
+    "Relevance":1.0,
+    "F1 Score":0.11068,
+    "Hallucination Risk":0.0
+  }
+]

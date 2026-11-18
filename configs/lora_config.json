@@ -1,0 +1,24 @@
+{
+  "base_model": "microsoft/Phi-3-mini-4k-instruct",
+  "peft_type": "LORA",
+  "task_type": "CAUSAL_LM",
+  "r": 10,
+  "lora_alpha": 32,
+  "lora_dropout": 0.05,
+  "target_modules": [
+    "q_proj",
+    "k_proj",
+    "v_proj",
+    "o_proj",
+    "gate_up_proj",
+    "down_proj"
+  ],
+  "bias": "none",
+  "trainable_params": 14417920,
+  "all_params": 3821079552,
+  "trainable_percent": 0.3773,
+  "learning_rate": 0.001,
+  "optimizer": "AdamW (Paged 8-bit / AdamW-32bit)",
+  "quantization": "4-bit (QLoRA NF4)",
+  "epochs": 4
+}

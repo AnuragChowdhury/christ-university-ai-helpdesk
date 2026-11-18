@@ -1,0 +1,17 @@
+# Python & virtual environment
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+.env
+venv/
+env/
+.venv/
+
+# MLflow tracking local artifacts
+mlruns/
+.trash/
+
+# PyMuPDF and intermediate large binaries if needed
+*.tmp
+*.log
